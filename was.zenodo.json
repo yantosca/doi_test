@@ -1,0 +1,22 @@
+{
+    "creators": [
+	{
+	    "name": "The International GEOS-Chem Community"
+	}
+    ],
+    "keywords": [
+	"atmospheric-chemistry",
+	"atmospheric-composition",
+	"atmospheric-modeling",
+	"aws",
+	"climate-modeling",
+	"cloud-computing",
+	"geos-chem",
+	"atmospheric-computing",
+	"scientific-computing"
+    ],
+    "license": "MIT License",
+    "upload_type": "software",
+    "language": "eng",
+    "additional_notes": "Please see the LICENSE.txt and AUTHORS.txt files in the root folder for the GEOS-Chem license description (based on the MIT License) and a complete list of authors.  For more information about GEOS-Chem in general, please see www.geos-chem.org and wiki.geos-chem.org."
+}
