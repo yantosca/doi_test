@@ -1,4 +1,6 @@
 {
+    "title": "doi_test",
+    "access_right": "open",
     "keywords": [
 	"atmospheric-chemistry",
 	"atmospheric-composition",
@@ -10,11 +12,6 @@
 	"atmospheric-computing",
 	"scientific-computing"
     ],
-    "license": {
-	"spdx_id": "MIT",
-	"url": "https://api.github.com/licenses/mit",
-        "name": "MIT License",
-	"key": "mit"
-    },
-    "language": "eng"
+    "license": "mit-license",
+    "description": "This is a test for zenodo autofill fields"
 }
