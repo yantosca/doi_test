@@ -10,5 +10,7 @@
 	"atmospheric-computing",
 	"scientific-computing"
     ],
-    "license": { "title": "MIT" }
+    "license": {
+	"title": "The MIT License"
+    }
 }
