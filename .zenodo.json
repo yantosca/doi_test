@@ -10,7 +10,7 @@
 	"atmospheric-computing",
 	"scientific-computing"
     ],
-    "license": "MIT License",
-    "upload_type": "software",
-    "language": "eng"
+    "license": {
+	"title": "MIT License"
+    }
 }
