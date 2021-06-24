@@ -1,6 +1,11 @@
 {
-    "title": "doi_test",
     "access_right": "open",
+    "creators": [
+	{
+	    "name": "The International GEOS-Chem User Community"
+	}
+    ],
+    "description": "This is a test for zenodo autofill fields".
     "keywords": [
 	"atmospheric-chemistry",
 	"atmospheric-composition",
@@ -13,5 +18,5 @@
 	"scientific-computing"
     ],
     "license": "mit-license",
-    "description": "This is a test for zenodo autofill fields"
+    "upload_type": "software"
 }
